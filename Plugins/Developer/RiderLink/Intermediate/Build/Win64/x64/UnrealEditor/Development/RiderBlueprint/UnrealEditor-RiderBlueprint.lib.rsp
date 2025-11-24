@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderBlueprint.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/Module.RiderBlueprint.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/BlueprintProvider.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/RiderBlueprint.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/Default.rc2.res"
+/OUT:"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.lib"

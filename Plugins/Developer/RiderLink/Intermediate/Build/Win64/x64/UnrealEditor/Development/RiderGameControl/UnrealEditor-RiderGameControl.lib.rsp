@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderGameControl.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Module.RiderGameControl.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/RiderGameControl.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Default.rc2.res"
+/OUT:"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.lib"

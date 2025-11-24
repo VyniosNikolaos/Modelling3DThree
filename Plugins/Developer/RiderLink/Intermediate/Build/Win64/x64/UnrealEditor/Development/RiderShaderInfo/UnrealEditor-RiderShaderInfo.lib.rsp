@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderShaderInfo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/Module.RiderShaderInfo.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/RiderShaderInfo.cpp.obj"
+"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/Default.rc2.res"
+/OUT:"D:/Modelling/Modelling3DThree/Modelling3DThree/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.lib"

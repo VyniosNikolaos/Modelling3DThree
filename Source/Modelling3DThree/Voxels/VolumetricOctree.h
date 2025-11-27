@@ -88,7 +88,7 @@ public:
     void ApplyTool(FVector ToolPosition, float ToolRadius, bool bAdd);
 
     // --- EDITOR DEBUG BUTTON FOR EXERCISE 6 ---
-    // This allows you to test the tool directly in the details panel
+    // This allows us to test the tool directly in the details panel
     UPROPERTY(EditAnywhere, Category = "Exercise 6 Debug")
     FVector DebugToolLocation;
     
